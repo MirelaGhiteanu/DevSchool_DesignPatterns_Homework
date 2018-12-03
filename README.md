@@ -1,5 +1,7 @@
 Design Patterns Homework:
 
+I added a diagram that shows how the app is working
+
 Pizza = Factory class, uses PizzaType interface to get the type of the pizza: 
 Capriciosa, Capricio, Quatro Stagioni, Pollo, Margherita
 
